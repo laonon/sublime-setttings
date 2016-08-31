@@ -1,3 +1,3 @@
 # sublime-setttings
 
-sublime ÅäÖÃÎÄ¼ş£¬×ÔÓÃ
+sublime è®¾ç½®é…ç½®æ–‡ä»¶ï¼Œè‡ªç”¨
