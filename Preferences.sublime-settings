@@ -1,0 +1,58 @@
+{
+	"auto_complete": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/Dark-Material (SL).tmTheme",
+	"default_line_ending": "unix",
+	"draw_centered": false,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".gitignore",
+		".DS_Store",
+		"*.sublime-project",
+		"*sublime-workspace",
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		".idea",
+		".phpintel"
+	],
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 15.0,
+	"gutter": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"material_theme_tree_headings": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		124
+	],
+	"scroll_past_end": true,
+	"spell_check": false,
+	"theme": "Dark-Material.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true,
+	"wrap_width": 124
+}
