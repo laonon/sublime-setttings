@@ -1,3 +1,3 @@
 # sublime-setttings
 
-sublime 设置配置文件，自用
+sublime 配置文件，自用
